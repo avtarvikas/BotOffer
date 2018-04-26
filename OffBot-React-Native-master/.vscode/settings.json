@@ -1,3 +1,12 @@
 {
-    "editor.formatOnSave": false
+    "settings":{
+        "[javascript]" :{
+            "editor.formatOnSave" : true
+        },
+        "[html]" :{
+            "editor.formatOnSave" : true
+        }
+
+    },
+    "editor.formatOnSave": true
 }
